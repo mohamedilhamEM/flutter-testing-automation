@@ -1,0 +1,394 @@
+{
+    "@@locale": "en",
+    "appName": "Starter",
+    "@appName": {
+        "description": "The name of the application"
+    },
+    "noInternetTitle": "Whoops!!",
+    "@noInternetTitle": {
+        "description": "Title for the no internet overlay"
+    },
+    "noInternetSubMessage": "Please check your internet connection and try again.",
+    "@noInternetSubMessage": {
+        "description": "Sub-message for the no internet overlay"
+    },
+    "goToSettings": "Go to settings",
+    "@goToSettings": {
+        "description": "Label for the go to settings button"
+    },
+    "signIn": "Sign In",
+    "@signIn": {
+        "description": "Label for sign in button or title"
+    },
+    "signUp": "Sign Up",
+    "@signUp": {
+        "description": "Label for sign up button or title"
+    },
+    "email": "Email",
+    "@email": {
+        "description": "Label for email input"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Label for password input"
+    },
+    "forgotPassword": "Forgot Password?",
+    "@forgotPassword": {
+        "description": "Text for forgot password link"
+    },
+    "alreadyHaveAccount": "Already have an account?",
+    "@alreadyHaveAccount": {
+        "description": "Prompt for users who already have an account"
+    },
+    "dontHaveAccount": "Don't have an account?",
+    "@dontHaveAccount": {
+        "description": "Prompt for users who don't have an account"
+    },
+    "firstName": "First Name",
+    "@firstName": {
+        "description": "Label for first name input"
+    },
+    "lastName": "Last Name",
+    "@lastName": {
+        "description": "Label for last name input"
+    },
+    "home": "Home",
+    "@home": {
+        "description": "Title for home page"
+    },
+    "explore": "Explore",
+    "@explore": {
+        "description": "Title for explore page"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "Title for settings page"
+    },
+    "profile": "Profile",
+    "@profile": {
+        "description": "Title for profile page"
+    },
+    "more": "More",
+    "@more": {
+        "description": "Title for more page"
+    },
+    "logout": "Logout",
+    "@logout": {
+        "description": "Label for logout action"
+    },
+    "ok": "OK",
+    "@ok": {
+        "description": "Label for OK action"
+    },
+    "error": "Error",
+    "@error": {
+        "description": "Generic error title"
+    },
+    "yes": "Yes",
+    "@yes": {
+        "description": "Label for yes action"
+    },
+    "no": "No",
+    "@no": {
+        "description": "Label for no action"
+    },
+    "signInFailed": "Sign In Failed",
+    "@signInFailed": {
+        "description": "Error message when sign in fails"
+    },
+    "signUpFailed": "Sign Up Failed",
+    "@signUpFailed": {
+        "description": "Error message when sign up fails"
+    },
+    "invalidEmail": "Invalid Email",
+    "@invalidEmail": {
+        "description": "Error message for invalid email format"
+    },
+    "helpSupport": "Help & Support",
+    "@helpSupport": {
+        "description": "Title for help and support page"
+    },
+    "about": "About",
+    "@about": {
+        "description": "Title for about page"
+    },
+    "account": "Account",
+    "@account": {
+        "description": "Title for account page"
+    },
+    "editProfile": "Edit Profile",
+    "@editProfile": {
+        "description": "Label for edit profile button"
+    },
+    "changePassword": "Change Password",
+    "@changePassword": {
+        "description": "Label for change password button"
+    },
+    "requestFailed": "Request Failed",
+    "@requestFailed": {
+        "description": "Error title when request fails"
+    },
+    "checkEmail": "Please Check Your Email",
+    "@checkEmail": {
+        "description": "Title for email check instruction"
+    },
+    "passwordResetSent": "A password reset link has been sent to your dedicated email",
+    "@passwordResetSent": {
+        "description": "Message confirming password reset link sent"
+    },
+    "didntReceiveEmail": "Didn't receive the email?",
+    "@didntReceiveEmail": {
+        "description": "Question for missing email"
+    },
+    "characters": "characters",
+    "@characters": {
+        "description": "characters"
+    },
+    "enterPassword": "Enter password",
+    "@enterPassword": {
+        "description": "Hint text for password field"
+    },
+    "passwordMaxLengthError": "Maximum {maxLength} characters allowed",
+    "@passwordMaxLengthError": {
+        "description": "Validation error when the input exceeds the maximum allowed characters",
+        "placeholders": {
+            "maxLength": {
+                "type": "int",
+                "example": "20"
+            }
+        }
+    },
+    "passwordIsRequired": "Password is required",
+    "@passwordIsRequired": {
+        "description": "Error message when the password field is empty"
+    },
+    "passwordMinLengthError": "Password must be at least {minLength} characters",
+    "@passwordMinLengthError": {
+        "description": "Error message for short passwords",
+        "placeholders": {
+            "minLength": {
+                "type": "int",
+                "example": "8"
+            }
+        }
+    },
+    "pleaseEnterPassword": "Please enter your password",
+    "@pleaseEnterPassword": {
+        "description": "Error message for empty password"
+    },
+    "passwordMustContainLettersAndDigits": "Password must contain letters and digits",
+    "@passwordMustContainLettersAndDigits": {
+        "description": "Error message when password doesn't contain both letters and digits"
+    },
+    "enterDigitsOnly": "Enter digits only",
+    "@enterDigitsOnly": {
+        "description": "Validation error when non-numeric characters are entered"
+    },
+    "phoneNumberTooShort": "Phone number is too short",
+    "@phoneNumberTooShort": {
+        "description": "Validation error for incomplete phone numbers"
+    },
+    "resend": "Resend",
+    "@resend": {
+        "description": "Label for resend action"
+    },  
+    "searchCountry": "Search Country",
+    "@searchCountry": {
+        "description": "Search Country"
+    },    
+    "enterContactNumber": "Enter your contact number",
+    "@enterContactNumber": {
+        "description": "Search Country"
+    },
+    "enterEmailReset": "Enter your registered email address below and we'll send you a password reset email",
+    "@enterEmailReset": {
+        "description": "Instruction for password reset"
+    },
+    "submit": "Submit",
+    "@submit": {
+        "description": "Label for submit action"
+    },
+    "verification": "Verification",
+    "@verification": {
+        "description": "Title for verification page"
+    },
+    "logOut": "Log Out",
+    "@logOut": {
+        "description": "Label for logout action"
+    },
+    "enterVerificationCode": "Please enter your verification code",
+    "@enterVerificationCode": {
+        "description": "Instruction to enter code"
+    },
+    "verificationCodeSent": "The verification code has been sent to sample@mail.com",
+    "@verificationCodeSent": {
+        "description": "Message confirming code sent"
+    },
+    "resendCode": "Resend the Code",
+    "@resendCode": {
+        "description": "Label for resend code action"
+    },
+    "or": "Or",
+    "@or": {
+        "description": "Divider text"
+    },
+    "sendCodeMobile": "Send the verification code to your mobile number?",
+    "@sendCodeMobile": {
+        "description": "Question to send code to mobile"
+    },
+    "sendCode": "Send the code",
+    "@sendCode": {
+        "description": "Label for send code action"
+    },
+    "didntReceiveCode": "Didn't receive the verification code?",
+    "@didntReceiveCode": {
+        "description": "Question for missing code"
+    },
+    "agreeTo": "By continuing, you agree to our ",
+    "@agreeTo": {
+        "description": "Terms agreement prefix"
+    },
+    "termsOfService": "Terms of Service",
+    "@termsOfService": {
+        "description": "Link text for terms"
+    },
+    "privacyPolicy": "Privacy Policy",
+    "@privacyPolicy": {
+        "description": "Link text for privacy policy"
+    },
+    "exploreApp": "Explore The App",
+    "@exploreApp": {
+        "description": "Label for explore app action"
+    },
+    "continueAction": "Continue",
+    "@continueAction": {
+        "description": "Label for continue action"
+    },
+    "disposableEmailError": "Please use a valid email address. Disposable emails are not allowed.",
+    "@disposableEmailError": {
+        "description": "Error message for disposable email"
+    },
+    "orContinueWith": "Or continue with",
+    "@orContinueWith": {
+        "description": "Text between auth separators"
+    },
+    "enterEmailHint": "Enter email",
+    "@enterEmailHint": {
+        "description": "Hint text for email input"
+    },
+    "errorEnterEmail": "Please enter your email",
+    "@errorEnterEmail": {
+        "description": "Error when email is empty"
+    },
+    "errorInvalidEmailAddress": "Please enter a valid email",
+    "@errorInvalidEmailAddress": {
+        "description": "Error when email format is invalid"
+    },
+    "termsAndPrivacyConfirm": " Terms and Conditions and confirm you have read our ",
+    "@termsAndPrivacyConfirm": {
+        "description": "Text connecting terms and privacy policy"
+    },
+    "verify": "Verify",
+    "@verify": {
+        "description": "Label for verification button"
+    },
+    "verifyAccount": "Verify Account",
+    "@verifyAccount": {
+        "description": "Label for account verification button"
+    },
+    "settingsPage": "Settings Page",
+    "@settingsPage": {
+        "description": "Title for settings page content"
+    },
+    "codeResendFailed": "Code Resend Failed",
+    "@codeResendFailed": {
+        "description": "Error message when resending code fails"
+    },
+    "mobileNumber": "Mobile Number",
+    "@mobileNumber": {
+        "description": "Label for mobile number input"
+    },
+    "errorEnterMobile": "Please enter your mobile number",
+    "@errorEnterMobile": {
+        "description": "Error when mobile number is empty"
+    },
+    "getStarted": "Get Started",
+    "@getStarted": {
+        "description": "Label for get started action"
+    },
+    "skip": "Skip",
+    "@skip": {
+        "description": "Label for skip action"
+    },
+    "cancelLogout": "Cancel & Logout",
+    "@cancelLogout": {
+        "description": "Label for cancel and logout action"
+    },
+    "retryLater": "Try again later or contact support if the issue persists.",
+    "@retryLater": {
+        "description": "Message for retrying later"
+    },
+    "chat": "Chat",
+    "@chat": {
+        "description": "Label for chat navigation item"
+    },
+    "step1": "Step 1",
+    "@step1": {
+        "description": "Label for step 1 placeholder"
+    },
+    "step2": "Step 2",
+    "@step2": {
+        "description": "Label for step 2 placeholder"
+    },
+    "step3": "Step 3",
+    "@step3": {
+        "description": "Label for step 3 placeholder"
+    },
+    "passwordStrengthWeak": "Weak password",
+    "@passwordStrengthWeak": {
+        "description": "Label for weak password strength"
+    },
+    "passwordStrengthMedium": "Medium strength",
+    "@passwordStrengthMedium": {
+        "description": "Label for medium password strength"
+    },
+    "passwordStrengthStrong": "Strong password",
+    "@passwordStrengthStrong": {
+        "description": "Label for strong password strength"
+    },
+    "passwordNoSpacesError": "Password cannot contain spaces",
+    "@passwordNoSpacesError": {
+        "description": "Error message when password contains whitespace"
+    },
+    "enterDescription": "Enter description",
+    "@enterDescription": {
+        "description": "Hint text for description input"
+    },
+    "maxLengthError": "Maximum {maxLength} characters allowed",
+    "@maxLengthError": {
+        "description": "Validation error when the input exceeds the maximum allowed characters",
+        "placeholders": {
+            "maxLength": {
+                "type": "int",
+                "example": "500"
+            }
+        }
+    },
+    "noInternetConnection": "No internet. Please check your network  connection.",
+    "@noInternetConnection": {
+        "description": "Error message when the device has no network connectivity"
+    },
+    "sessionExpired": "Session expired. Please log in again.",
+    "@sessionExpired": {
+        "description": "Error message when the auth token is invalid or expired"
+    },
+    "retry": "Retry",
+    "@retry": {
+        "description": "Label for retry action button"
+    },
+    "serverConnectionError": "Unable to connect to server. Please try again.",
+    "@serverConnectionError": {
+        "description": "Error message when the server is unreachable after retries"
+    }
+}
+
